@@ -1,6 +1,6 @@
 {
-	"author":"Norvin Vilchez",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Norvin Vilchez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
